@@ -45,7 +45,6 @@ tags: [writing,read]
 >
 > 第一句话：背景（如high-paced age）
 >
-> ![image-20241015230909112](./D:/GithubPages/OxJin51.github.io/assets/images/image-20241015230909112.png)
 
 ### on top of this 除此之外；在xx的基础上 （当作连接词 代替 what's more之类）
 
@@ -57,7 +56,7 @@ tags: [writing,read]
 
 ### backfire 适得其反
 
-![image-20241015234902193](./D:/GithubPages/OxJin51.github.io/assets/images/image-20241015234902193.png)
+
 
 > xx对，而xx不对
 >
