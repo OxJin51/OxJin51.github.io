@@ -3,7 +3,8 @@ title: 科技类外刊
 date: 2024-10-15 22:33:27 +0800
 categories: [English, Reading]
 tags: [writing,read]
-
+typora-root-url: ./..
+typora-copy-images-to: ./..\assets\images\2024-10-15-TechReading
 ---
 
 # 科技类外刊
@@ -43,8 +44,9 @@ tags: [writing,read]
 >
 > 展开问题是什么！
 >
-> 第一句话：背景（如high-paced age）
+> 第一句话：背景（如high-paced age,etc.）
 >
+> ![image-20241015230909112](./assets/imgge/2024-10-15-TechReading/image-20241015230909112.png)
 
 ### on top of this 除此之外；在xx的基础上 （当作连接词 代替 what's more之类）
 
@@ -56,9 +58,9 @@ tags: [writing,read]
 
 ### backfire 适得其反
 
+![image-20241015234902193](./assets/images/2024-10-15-TechReading/image-20241015234902193.png)
 
-
-> xx对，而xx不对
+> ### xx对，而xx不对
 >
 > 协作的重要性&恶意竞争
 >
