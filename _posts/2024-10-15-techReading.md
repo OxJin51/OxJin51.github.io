@@ -46,7 +46,7 @@ typora-copy-images-to: ./..\assets\images\2024-10-15-TechReading
 >
 > 第一句话：背景（如high-paced age,etc.）
 >
-> ![image-20241015230909112](./assets/images/2024-10-15-TechReading/image-20241015230909112-1729011476284-7.png)
+> ![image-20241015230909112](../assets/images/2024-10-15-TechReading/image-20241015230909112-1729011476284-7.png)
 
 ### on top of this 除此之外；在xx的基础上 （当作连接词 代替 what's more之类）
 
@@ -58,7 +58,7 @@ typora-copy-images-to: ./..\assets\images\2024-10-15-TechReading
 
 ### backfire 适得其反
 
-![image-20241015234902193](./assets/images/2024-10-15-TechReading/image-20241015234902193-1729011489630-9.png)
+![image-20241015234902193](../assets/images/2024-10-15-TechReading/image-20241015234902193-1729011489630-9.png)
 
 > ### xx对，而xx不对
 >
